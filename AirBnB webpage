@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Top 5 AirBnB markets in US</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+    table, th, td {
+        border: 1px solid #ccc;
+    }
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    .footer {
+        text-align: center;
+        margin-top: 20px;
+        font-style: italic;
+        color: #666;
+    }
+</style>
+</head>
+<body>
+    <h1>Top 5 AirBnb Markets in the US</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>AirBnb Rental Market</th>
+                <th>Tourism (30%)</th>
+                <th>Proximity to Airport(15%)</th>
+                <th>Climate(30%)</th>
+                <th>Market Score(25%)</th>
+                <th>Total Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Jacksonville, FL</td>
+                <td>78: Lots of tourism and activities to do in this city,
+                hosts about 22 million people per year. </td>
+                <td>71: 
+                Airport is about 13 miles from downtown, so it's not too far, provides Good
+                amenities and dining options. </td>
+                <td>92: 
+                The climate in Jacksonville is good, mild winters and warm summers. 
+                Though there is some humidity and can be victim to storms in the latter summer months
+                </td>
+                <td>88:
+                This is the overall market score for this city market</td>
+                <td>82.25</td>
+            </tr>
+            <tr>
+                <td>Birmingham, AL</td>
+                <td>70: 
+                Good amount of tourism from different areas, lower compared to Jacksonville
+                </td>
+                <td>95:
+                Airport is 5 miles from downtown, so very close and has good options 
+                for dining and amenities.
+                </td>
+                <td>78:
+                The weather is great, it has all 4 seasons, the only issue
+                would be the tropical storms or tornadoes that happen in some parts
+                of the year. 
+                </td>
+                <td>82: 
+                This the market score that is the overall trend in how the market is doing right downtown
+                </td>
+                <td>81.25</td>
+            </tr>
+            <tr>
+              <td>Detroit, MI</td>
+                <td>74: Not bad tourism, has a lot of art museums and historical sites that 
+                bring about tourists, and the tourism industry in Detriot has been growing recently</td>
+                <td>67: It is about 20 miles away from downtown, so a bit of a drive, not really a centralized location, makes it a bit more difficult for travelers
+                </td>
+                <td>80: 
+                The weather is pretty good, warm summers, mild winters, but the only thing that brings
+                it down is the severe weather events they sometimes face, such as heavy thunderstorms or snowstorms</td>
+                <td>92: 
+                Based on the price of the properties and the investment profits as well as future potential, this is the market score for detroit. </td>
+                <td>78.25</td>
+                
+            </tr>
+            <tr>
+                <td>Huntington, WV</td>
+                <td>65: 
+                The tourism in Huntington is not as big compared to the rest of the cities, 
+                but still supports a good amount, has a wide range of restaurants and historical landmarks.</td>
+                <td>71: It is about 13 miles from the downtown, so not too far, but not as close as some of the other cities here. </td>
+                <td>75: Has good variability in the temperature, with some humidity problems later in the summers
+                has normal amounts of rain, so nothing too uncomfortable. </td>
+                <td>75: 
+                Based on the trends of this market, this is the market score, it also has quite cheap prices for properties which brought it up to this position</td>
+                <td>71.5</td>
+            </tr>
+            <tr>
+                
+            <tr>
+                <td>Erie, PA</td>
+                <td>72:
+                With most of the tourism surrounding Lake Erie most of the activities are outdoor and based around 
+                the lake. </td>
+                <td>92: 
+                Not too far from the downtown of the city, about 5-7 miles</td>
+                <td>66: The winters are quite cold, but the summers are mild, nearness to the lake can cause a lot 
+                of snowfall, also has some spurts of extreme weather storms </td>
+                <td>67: This is the overall market score of the Market in Erie</td>
+                <td>74.25</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="footer">
+        <p>Helpful links for learning more: </p>
+    </div>
+</body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4x3 Table Example</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        p {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Rental Market Websites</th>
+            <th>Tourism Statistics</th>
+            <th>AirBnb Rental blogs and Websites</th>
+        </tr>
+        <tr>
+            <td><a href="https://www.airdna.co/" target="_blank">AirDNA</a></td>
+            <td><a href="https://www.census.gov/" target="_blank">US Consensus</a></td>
+            <td><a href="https://www.thehostingjourney.com/category/podcast/" target="_blank">TheHostingJourney</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.realtor.com/" target="_blank">Realtor.com</a></td>
+            <td><a href="https://www.statista.com/" target="_blank">Statista.com</a></td>
+            <td><a href="https://news.airbnb.com/category/public-policy/" target="_blank">AirBnB news</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://insideairbnb.com/" target="_blank">Inside AirBnB</a></td>
+            <td><a href="https://www.ustravel.org/" target="_blank">US Travel</a></td>
+            <td><a href="https://getpaidforyourpad.com/podcast-2/" target="_blank">GetPaidForYourPad podcast</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.mashvisor.com/" target="_blank">Mashvisor.com</a></td>
+            <td><a href="https://www.tripadvisor.com/TripAdvisorInsights/key-research" target="_blank">TripAdvisorInsights</a></td>
+            <td><a href="https://www.mashvisor.com/blog/" target="_blank">Mashvisor Blog</a></td>
+        </tr>
+    </table>
+    <p>.</p>
+</body>
+</html>
+
+</html>
